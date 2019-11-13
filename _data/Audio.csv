@@ -1,3 +1,4 @@
+Field_name;Field_2;Field_3;Field_4;Field_5;Field_6;Explanation
 Count;;;N NI;;;Count of objects available in this stream
 Status;;;N NI;;;bit field (0=IsAccepted, 1=IsFilled, 2=IsUpdated, 3=IsFinished)
 StreamCount;;;N NI;;;Count of streams of that kind available
